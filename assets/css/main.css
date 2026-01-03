@@ -79,7 +79,7 @@ input, select, textarea {
 .quote {
     font-size: 0.85em;
     line-height: 1.4;
-    margin-top: -3em;
+    margin-top: 0em;
     margin-bottom: 4em;
 }
 
