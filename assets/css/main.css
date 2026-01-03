@@ -72,6 +72,17 @@ input, select, textarea {
 	appearance: none;
 }
 
+
+/* MY ADDITIONS */
+.quote {
+    font-size: 0.8em;
+    line-height: 0.8;
+    margin-top: 0;
+    margin-bottom: 2em;
+}
+
+
+
 /* Basic */
 
 	html {
