@@ -83,6 +83,22 @@ input, select, textarea {
     margin-bottom: 4em;
 }
 
+.video-container {
+    text-align: center;
+    margin: 2em 0;
+}
+
+.video-container video {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.video-caption {
+    font-size: 0.9em;
+    color: #ccc;
+    margin-top: 0.5em;
+}
 
 
 
