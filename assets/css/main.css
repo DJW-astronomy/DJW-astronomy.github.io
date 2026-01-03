@@ -83,28 +83,6 @@ input, select, textarea {
     margin-bottom: 4em;
 }
 
-.feature-article {
-    display: flex; /* left/right split */
-    gap: 2em;      /* space between media and text */
-    align-items: flex-start;
-}
-
-.feature-article .media-column {
-    display: flex;
-    flex-direction: column; /* stack image + video */
-    gap: 1em;               /* space between image and video */
-    flex: 1;                 /* take same width as other left-hand columns */
-    max-width: 500px;       /* optional, match other section width */
-}
-
-.feature-article .media-column img,
-.feature-article .media-column video {
-    width: 100%;
-    height: auto;
-    display: block;
-    border-radius: 0;
-}
-
 
 
 
