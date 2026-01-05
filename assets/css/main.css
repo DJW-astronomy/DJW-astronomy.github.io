@@ -81,7 +81,6 @@ input, select, textarea {
     line-height: 1.4;
     margin-top: 0em;
     margin-bottom: 4em;
-	color: #612141;
 }
 
 
@@ -3329,6 +3328,13 @@ input, select, textarea {
 				width: 100%;
 			}
 
+		/* MY BOTTOM ADDITIONS */
+		p.quote {
+		    color: #612141;
+		}
+
+
+		
 		/* Button */
 
 			input[type="submit"],
