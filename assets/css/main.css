@@ -3333,6 +3333,11 @@ input, select, textarea {
 		    color: #612141;
 		}
 
+		@media (prefers-color-scheme: dark) {
+		    .quote em {
+		        color: #b3b3b3; /* or whatever color you want */
+		    }
+		}
 
 		
 		/* Button */
