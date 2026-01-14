@@ -3353,12 +3353,12 @@ input, select, textarea {
 /* MY BOTTOM ADDITIONS */
 		p.quote {
 		    color: #612141;
-			font-weight: 300;
+			font-weight: 100;
 		}
 		
 		p.quote em {
    			 color: #612141;
-			font-weight: 300;
+			font-weight: 100;
 		}
 
 		#two .image {
