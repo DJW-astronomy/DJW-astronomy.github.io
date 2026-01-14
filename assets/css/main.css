@@ -181,8 +181,9 @@ input, select, textarea {
 	}
 
 	h4 {
-		font-size: 1.25em;
+		font-size: 1.5em;
 		line-height: 1.5em;
+		color: #612141;
 	}
 
 	h5 {
