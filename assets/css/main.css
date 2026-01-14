@@ -101,7 +101,10 @@ input, select, textarea {
 }
 
 
-
+.video-wide {
+  max-width: 1000px;
+  margin: 3em auto;
+}
 
 
 
