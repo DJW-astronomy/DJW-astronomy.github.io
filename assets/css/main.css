@@ -3343,6 +3343,28 @@ input, select, textarea {
    			 color: #612141;
 		}
 
+		#two .image {
+    max-width: 800px;   /* fits content column */
+    margin: 0 auto;     /* center image */
+	}
+	#two .image img {
+	    width: 100%;        /* fill parent div */
+	    height: auto;
+	    display: block;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+		
 		@media (prefers-color-scheme: dark) {
 		    .quote em {
 		        color: #b3b3b3; /* or whatever color you want */
