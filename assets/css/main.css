@@ -3351,7 +3351,7 @@ input, select, textarea {
 
 
 /* MY BOTTOM ADDITIONS */
-		p.quote {
+		/*p.quote {
 		    color: #612141;
 			font-weight: 100;
 		}
@@ -3359,7 +3359,7 @@ input, select, textarea {
 		p.quote em {
    			 color: #612141;
 			font-weight: 100;
-		}
+		}*/
 
 		#two .image {
     max-width: 800px;   /* fits content column */
