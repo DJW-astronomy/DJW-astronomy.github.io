@@ -3281,6 +3281,9 @@ input, select, textarea {
 
 	}
 
+
+
+
 /* XSmall */
 
 	@media screen and (max-width: 480px) {
@@ -3334,7 +3337,20 @@ input, select, textarea {
 				width: 100%;
 			}
 
-		/* MY BOTTOM ADDITIONS */
+		/* Button */
+
+			input[type="submit"],
+			input[type="reset"],
+			input[type="button"],
+			.button {
+				padding: 0;
+			}
+
+	}
+
+
+
+/* MY BOTTOM ADDITIONS */
 		p.quote {
 		    color: #612141;
 		}
@@ -3355,30 +3371,19 @@ input, select, textarea {
 
 
 
-
-
-
-
-
-
-
-
-
-		
-		@media (prefers-color-scheme: dark) {
+		/*@media (prefers-color-scheme: dark) {
 		    .quote em {
-		        color: #b3b3b3; /* or whatever color you want */
+		        color: #b3b3b3; 
 		    }
-		}
+		}*/
 
-		
-		/* Button */
 
-			input[type="submit"],
-			input[type="reset"],
-			input[type="button"],
-			.button {
-				padding: 0;
-			}
 
-	}
+
+
+
+
+
+
+
+
