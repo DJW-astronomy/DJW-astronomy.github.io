@@ -2731,7 +2731,7 @@ input, select, textarea {
 		-ms-justify-content: space-between;
 		justify-content: space-between;
 		background: #000000;
-		color: #d2f2e9;
+		color: #00f9ff;
 		height: 100%;
 		overflow-y: auto;
 		position: fixed;
@@ -2754,7 +2754,7 @@ input, select, textarea {
 		}
 
 		#header a {
-			color: #d2f2e9;
+			color: #00f9ff;
 		}
 
 			#header a:hover {
@@ -2781,7 +2781,7 @@ input, select, textarea {
 			}
 
 			#header > header p {
-				color: #d2f2e9;
+				color: #00f9ff;
 				font-style: italic;
 				margin: 1em 0 0 0;
 			}
