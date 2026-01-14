@@ -2819,7 +2819,7 @@ input, select, textarea {
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #00f9ff;
+					border-top: solid 2px #000000;
 					display: block;
 					padding: 0;
 				}
