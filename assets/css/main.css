@@ -3338,6 +3338,10 @@ input, select, textarea {
 		p.quote {
 		    color: #612141;
 		}
+		
+		p.quote em {
+   			 color: #612141;
+		}
 
 		@media (prefers-color-scheme: dark) {
 		    .quote em {
