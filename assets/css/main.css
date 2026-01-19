@@ -104,18 +104,6 @@ input, select, textarea {
 }
 
 
-.research-media {
-  width: 100%;
-  max-width: 800px;   /* match the video’s visual size */
-  margin: 0 auto;
-}
-
-.research-media img,
-.research-media iframe {
-  width: 100%;
-  height: auto;
-  display: block;
-}
 
 
 
