@@ -3419,7 +3419,7 @@ body,
 p,
 li {
     color: #171717 !important;
-	/* font-family: "Abadi", "Abadi MT", "Arial", sans-serif !important; */
+	 font-family: "Abadi", "Abadi MT", "Arial", sans-serif !important; 
 	 font-size: 20pt !important; 
 	/* font-size: 1.25em !important; */
 }
@@ -3427,11 +3427,12 @@ li {
 strong,
 b {
     color: #000000 !important;
-    font-weight: 700;
+    font-weight: 1000;
 }
 
 
 
 p_sidebar{
 	color: #f7f7ff;
+	font-style: italic;
 }
