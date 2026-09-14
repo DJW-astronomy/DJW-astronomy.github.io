@@ -3419,6 +3419,8 @@ body,
 p,
 li {
     color: #171717 !important;
+	font-family: "Abadi", "Abadi MT", "Arial", sans-serif !important;
+	font-size: 18pt
 }
 
 
