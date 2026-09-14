@@ -3420,8 +3420,8 @@ p,
 li {
     color: #171717 !important;
 	/* font-family: "Abadi", "Abadi MT", "Arial", sans-serif !important; */
-	/* font-size: 18pt !important; */
-	font-size: 1.25em !important;
+	 font-size: 20pt !important; 
+	/* font-size: 1.25em !important; */
 }
 
 strong,
