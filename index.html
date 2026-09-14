@@ -39,7 +39,7 @@
 						<li><a href="#one" class="active">About Me</a></li>
 						<li><a href="#two">Research</a></li>
 						<li><a href="#three">Publications</a></li>
-						<li><a href="#four">Public Outreach</a></li>
+						<li><a href="#four">Presentations & Public Outreach</a></li>
 						<li><a href="#five">Technical Skills & Software</a></li>
 					</ul>
 				</nav>
@@ -186,7 +186,7 @@
 							<section id="four">
 								<div class="container">
 									<header class="major">
-										<h3>Public Outreach</h3>
+										<h3>Presentations & Public Outreach</h3>
 										<p><em>For outreach or speaking requests, please contact me at: <a href="mailto:dwilliams.astro@gmail.com">dwilliams.astro@gmail.com</a></em></p>
 									</header>
 									<div class="features">
@@ -198,7 +198,7 @@
 											<div class="inner">
 												<h4>Burke-Gaffney Observatory (BGO)</h4>
 												<p style="margin-bottom: 0;">As a telescope operator and tour guide at the Burke-Gaffney Observatory, I have the opportunity to share my passion for space with a wide audience. 
-													I assist undergraduate students with class projects, host classroom-based science education sessions, and lead public observation nights. 
+													I assist undergraduate students with observational projects and data collection, host classroom-based science education sessions, and lead public observation nights. 
 													During these events, I help visitors of all ages experience the universe firsthand through guided tours and hands-on telescope observing.</p>
 													<ul style="margin-top: 0.5;">
 													<li><a href="https://observatory.smu.ca/" target="_blank">Check out BGO's website for info on tours and booking private events.</a></li>
@@ -238,15 +238,19 @@
 									<header class="major">
 										<h3>Technical Skills & Software</h3>
 									</header>
-										<p>My research involves performing data analysis on large astronomical datasets. I am proficient in Python, R, and Fortran for scientific analysis, 
-											as well as Bash for Unix shell scripting and HTML5/CSS for website development. 
-											I have experience developing parallel computing workflows and running large-scale analyses on high-performance computing systems, 
-											including submitting and managing jobs via SLURM on clusters operated by the Digital Research Alliance of Canada.</p>
-
-										<p style="margin-bottom: 0;">
-											I contributed to the development and testing of <strong>GalPRIME</strong>, a parallelized Python suite for galaxy image analysis, led by <em>Harrison Souchereau (Yale University)</em>. 
-											<strong>GalPRIME</strong> is designed to extract one-dimensional surface brightness profiles with automatic masking of interloping sources and two-dimensional background subtraction, 
-											and to assess the quality of extracted profiles through comparisons with simulated models.</p>
+								
+									<p style="margin-bottom: 0;">
+										My research involves acquiring, processing, and analyzing large astronomical datasets. 
+									I am proficient in Python, R, and Fortran for scientific analysis, package development and version control with Git, Bash for Unix shell scripting, and HTML5/CSS for website development. 
+									More broadly, I am experienced in developing parallel computing workflows and running large-scale analyses on high-performance computing systems, along with designing and implementing simulation-based tests to assess measurement robustness.</p> 
+									
+									<p style="margin-bottom: 0;">
+										During my thesis work, I contributed to the development and testing of GalPRIME, a parallelized Python suite for galaxy image analysis led by Harrison Souchereau (Yale University). 
+									GalPRIME extracts extended 1D radial surface brightness profiles from photometric imaging via elliptical isophote analysis, while also performing automated source masking and 2D background subtraction. 
+									I independently developed a parallelizable forward-modelling procedure to correct for PSF-related smearing of light in galaxy images. 
+									I also developed a Python-based pipeline for identifying quiescent cluster galaxy members in photometric datasets that combines two classification methodologies with iterative sampling to account for galaxy distance errors. 
+									I validated the performance of these procedures through extensive tests involving hundreds of thousands of simulated galaxies.  </p>
+			
 										<ul style="margin-top: 0;">
 											 <li><a href="https://pypi.org/project/galprime/">Link for GalPRIME on PyPi</a></li>
 								        </ul>
