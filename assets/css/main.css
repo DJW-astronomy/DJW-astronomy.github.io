@@ -3420,9 +3420,15 @@ p,
 li {
     color: #171717 !important;
 	font-family: "Abadi", "Abadi MT", "Arial", sans-serif !important;
-	font-size: 18pt
+	font-size: 30pt !important;
+	
 }
 
+strong,
+b {
+    color: #000000 !important;
+    font-weight: 700;
+}
 
 
 
