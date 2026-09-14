@@ -3422,6 +3422,8 @@ li {
 	 /* font-family: "Abadi", "Abadi MT", "Arial", sans-serif !important; */
 	 font-size: 20pt !important; 
 	/* font-size: 1.25em !important; */
+    font-family: "DM Sans", Arial, sans-serif !important;
+
 }
 
 strong,
@@ -3436,3 +3438,14 @@ p_sidebar{
 	color: #f7f7ff;
 	font-style: italic;
 }
+
+
+
+
+
+
+
+
+
+
+
