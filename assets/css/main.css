@@ -3415,7 +3415,11 @@ input, select, textarea {
     margin: 0 !important;
 }
 
-
+body,
+p,
+li {
+    color: #171717 !important;
+}
 
 
 
